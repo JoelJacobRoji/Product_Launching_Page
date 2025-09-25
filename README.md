@@ -30,5 +30,18 @@ Google Fonts
 
 Font Awesome
 
-## 🌍 Visit Our Site
-👉 PulsePro X[https://joeljacobroji.github.io/Product_Launching_Page/]
+# 👥 Contributors
+
+This project was collaboratively developed by:
+
+* [Darren Samuel Dcruz](https://github.com/Darren-Dcruz)
+* [P Kamuel Shawn](https://github.com/KamuelShawn)
+* [Joel Jacob Roji](https://github.com/JoelJacobRoji)
+
+# 🌐 Visit our site: 
+
+[PulsePro X - Product Launch Page](https://joeljacobroji.github.io/Product_Launching_Page/)
+
+# 📄 License
+
+This project is licensed under the MIT License.

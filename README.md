@@ -7,18 +7,27 @@ The purpose of this project was to design a professional front-end launch page u
 ## ✨ Key Features
 
 📱 Fully responsive design for desktop and mobile
+
 🎨 Modern UI with Google Fonts and Font Awesome icons
+
 ⚡ Smooth navigation and scrolling
+
 📊 Specifications and pricing sections
+
 💬 Testimonials with star ratings
+
 🎯 Call-to-action buttons with alerts
 
 ## 🛠 Technologies Used
 
 HTML5 & CSS3
+
 Bootstrap 5
+
 JavaScript & jQuery
+
 Google Fonts
+
 Font Awesome
 
 ## 🌍 Visit Our Site
